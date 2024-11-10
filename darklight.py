@@ -16,7 +16,7 @@ class darklight(QMainWindow):
         # Windows, webviews, and homepages oh my!
         self.setWindowTitle("Darklight")
         self.textBrowser = QWebEngineView()
-        self.textBrowser.setUrl(QUrl("https://startpage.com"))
+        self.textBrowser.setUrl(QUrl("https://duckduckgo.com"))
 
         # Establishes the buttons to be used in the browser.
         self.addressBar = QLineEdit()
