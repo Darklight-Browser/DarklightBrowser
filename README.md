@@ -1,5 +1,5 @@
 # Darklight Browser
-Qt/PySides6 based web browser which uses Startpage as its default search engine.
+Qt/PySides6 based web browser which uses DuckDuckGo as its default search engine.
 
 # Why not Google?
 Google has had controversies with user data collection and tracking, so DuckDuckGo was set with respect to users who value privacy.
