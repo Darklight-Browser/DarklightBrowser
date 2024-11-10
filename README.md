@@ -9,4 +9,4 @@ Both have had controversies with user data collection and tracking, so Startpage
 2. Run ```git clone https://github.com/Darklight-Browser/DarklightBrowser.git```
 3. ```cd``` into the cloned directory and run ```python3 darklight.py```
 # DarklightBrowser
-Qt/PySides6 based web browser which uses Startpage as its default search engine.
+Qt/PySides6 based web browser which uses DuckDuckGo as its default search engine.
